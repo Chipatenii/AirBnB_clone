@@ -1,5 +1,5 @@
 Description of the project:
-Team Project Airbnb consle clone
+Team Project Airbnb console clone
 
 Description of the command interpreter
 1.Create a new object (ex: a new User or a new Place)
