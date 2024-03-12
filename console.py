@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Defining a cmd module"""
 import cmd
-from models.engine import storage
+from models import storage
 from models.base_model import BaseModel
 from models.user import User
 from models.state import State
