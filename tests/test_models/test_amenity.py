@@ -5,7 +5,6 @@ Tests unittest for models/amenity.py
 import unittest
 from models.amenity import Amenity
 
-
 class TestAmenity(unittest.TestCase):
     def test_name_initialization(self):
         amenity = Amenity()
